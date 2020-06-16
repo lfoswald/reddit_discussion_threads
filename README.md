@@ -7,4 +7,4 @@ How does the exposure to opposing views affect relatively homogeneous online com
 
 Does only the isolation of echo chambers lead to opinion polarization, or is also the community's reaction towards contrary information reinforcing pre-existing views of the majority of its members? 
 
-
+Note: Better way to calculate the depth of comment trees - use of longest-path metric of graph objects instead of depth indication in comment dataframe collected with PRAW (code will be updated shortly).
